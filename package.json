@@ -20,6 +20,7 @@
     "discord.js": "^13.2.0",
     "mineflayer": "^3.11.2",
     "nodemon": "^2.0.13",
+    "pm2": "^5.1.2",
     "prismarine-viewer": "^1.20.0",
     "puppeteer": "^10.4.0",
     "wokcommands": "^1.5.1"

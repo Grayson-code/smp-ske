@@ -40,4 +40,10 @@ bot.once("spawn", () => {
   mineflayerViewer(bot, { port: 3001, firstPerson: false }); // port is the minecraft server port, if first person is false, you get a bird's-eye view
 });
 
+client.on('messageCreate', async (message) => {
+  if (message.content == '!ping') {
+  await message.reply('Pong!')
+  }
+})
+
 client.login(token)
