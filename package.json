@@ -1,0 +1,35 @@
+{
+  "name": "smp-repo",
+  "version": "0.0.1",
+  "description": "me is ske",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grayson-code/ske.smp.git"
+  },
+  "author": "ske&&star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grayson-code/ske.smp/issues"
+  },
+  "homepage": "https://github.com/Grayson-code/ske.smp#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "mineflayer": "^3.11.2",
+    "nodemon": "^2.0.13",
+    "prismarine-viewer": "^1.20.0",
+    "puppeteer": "^10.4.0",
+    "wokcommands": "^1.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  },
+  "keywords": [
+    "minecraft",
+    "egg",
+    "discord"
+  ]
+}
